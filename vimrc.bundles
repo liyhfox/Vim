@@ -1,0 +1,17 @@
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+" Bundle 'winmanager'
+"Bundle 'Valloric/YouCompleteMe'
+Bundle "tpope/vim-commentary"
+Bundle "Yggdroot/indentLine"
+" Bundle "scrooloose/syntastic"
+Bundle "scrooloose/nerdtree"
+Bundle "vim-airline/vim-airline"
+Bundle "vim-airline/vim-airline-themes"
+Bundle "majutsushi/tagbar"
+Bundle "szw/vim-ctrlspace"
+" Bundle "Shougo/neocomplete"
+Bundle 'bufexplorer.zip'
+Bundle "taghighlight"
